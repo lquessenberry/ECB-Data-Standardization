@@ -1,9 +1,9 @@
-# Data Standardization
-## The Foundation for Our Future
+### Data Standardization
+#### The Foundation for Our Future
 
 ---
 
-## Introduction
+### Introduction
 - Brief History
 - Terminology
 - Our Mission
@@ -12,14 +12,14 @@
 
 ---
 
-## History
+### History
 - Falcon
 - Bistrack (Thank You Bryan Tucker)
 - DreamFactory Initial Tests
 
 ---
 
-## Terminology
+### Terminology (Take Notes)
 - API
 - REST API
 - What is DATA?
@@ -30,7 +30,7 @@
 
 ---
 
-## Our Mission
+### Our Mission
 - Optimize Data Entry
 - Standardize Data Formatting
 - Optimize Product Queries
@@ -40,8 +40,12 @@
 
 ---
 
-## Future App Development
+### Future App Development
 - Drupal 8 E-Commerce for SW, BO, Barton's (2018)
 - Visualizers
 - Headless Drupal 8 for iOS, HTML5, Node.JS, Android, etc... (2019)
 - Headless Drupal 8 for Kiosks, Touch Screens in Stores (2019 - 2020)
+
+---
+
+### Thank You. Let's Discuss
