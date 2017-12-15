@@ -40,6 +40,15 @@
 
 ---
 
+### Known Problem Areas
+- SLE Items
+- Cabinet Calculating Worksheets
+- MAAX Tubs
+- Finer Doors
+- Other Manufacturers
+
+---
+
 ### Future App Development
 - Drupal 8 E-Commerce for SW, BO, Barton's (2018)
 - Visualizers
